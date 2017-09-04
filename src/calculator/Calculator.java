@@ -354,5 +354,5 @@ class MySpecialButton extends Button implements ActionListener
   
         //it must be CE button pressed  
         cl.displayLabel.setText("0");cl.setClear=true;  
-        }//actionPerformed  
-}//class  
+        } 
+}  
